@@ -1,3 +1,6 @@
+
+![Flux_Dev_A_midcentury_modern_workspace_infused_with_a_delicate_3-2](https://github.com/user-attachments/assets/d03c7e97-6c05-491b-abea-fd644eee1847)
+
 # 👋 Hi, I'm Anna!  
 
 🦋 **Trans woman | Software Developer | Tech Enthusiast**  
