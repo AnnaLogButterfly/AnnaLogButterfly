@@ -1,4 +1,3 @@
-
 ![Flux_Dev_A_midcentury_modern_workspace_infused_with_a_delicate_3-2](https://github.com/user-attachments/assets/d03c7e97-6c05-491b-abea-fd644eee1847)
 
 # 👋 Hi, I'm Anna!  
@@ -20,7 +19,8 @@
 - **Tools:** Git, Docker, VS Code  
 
 ## 📫 Connect With Me  
-- 🌐 [Reddit: u/AnnaLogButterfly](https://www.reddit.com/user/AnnaLogButterfly)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-here)  
+- [![Reddit](https://img.shields.io/badge/Reddit-u%2FAnnaLogButterfly-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/AnnaLogButterfly)  
 - 💬 Open to chatting about tech, transitioning, and life in general!  
 
 ✨ _“Like a butterfly, transformation takes time—but the result is beautiful.”_ ✨  
