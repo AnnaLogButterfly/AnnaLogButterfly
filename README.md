@@ -1,26 +1,32 @@
-![Flux_Dev_A_midcentury_modern_workspace_infused_with_a_delicate_3-2](https://github.com/user-attachments/assets/d03c7e97-6c05-491b-abea-fd644eee1847)
+![Personal Brand - Original](https://github.com/user-attachments/assets/d8e1363d-3363-41c7-ac40-0fdc3b9fb878)
 
-# 👋 Hi, I'm Anna!  
+# 👋 Hi there, I’m Anna Barnes
 
-🦋 **Trans woman | Software Developer | Tech Enthusiast**  
-💻 Passionate about writing clean, efficient code and building meaningful projects  
-🏳️‍⚧️ Advocating for authenticity, growth, and transformation  
+I'm a software developer who leads with clarity, kindness, and curiosity. I love untangling tricky bugs, building intuitive user experiences, and modernizing legacy systems into clean, maintainable, human-centered applications.
 
-## 🚀 About Me  
-- 👩‍💻 Software developer with a love for problem-solving  
-- 🦋 Transitioning & thriving—always learning and evolving  
-- 📺 Enjoys great TV shows, especially *The Big Bang Theory*  
+### 🛠️ Tech I Enjoy Working With
+- Frontend: HTML, CSS, JavaScript, Vue.js
+- Backend: C#, Java, Python, SQL
+- Tools & Tech: Docker, GitHub Actions, REST APIs, Swagger/OpenAPI
+- Formerly: WPF/C#, legacy systems… turned modern 😉
 
-## 🛠️ Technologies & Skills  
-- **Languages:** Python, JavaScript, TypeScript  
-- **Frontend:** Vue.js, HTML, CSS  
-- **Backend:** Node.js, Express, Django  
-- **Databases:** PostgreSQL, MongoDB  
-- **Tools:** Git, Docker, VS Code  
+### 🧭 What I’m All About
+- 💡 Always asking "What could be better?"
+- 🤝 Collaborating with empathy and respect
+- 🐞 Debugging like a detective with a coffee habit
+- 🌱 Currently learning more about AI, modern frontend frameworks, and making tech more accessible
 
-## 📫 Connect With Me  
+### 🌈 Things I Care About
+- Supporting LGBTQ+ inclusion and women in tech
+- Work-life balance, sustainability, and intentional innovation
+- Miniature schnauzers (I have three — they’re basically QA)
+
+### 📫 Let’s connect!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-here)  
 - [![Reddit](https://img.shields.io/badge/Reddit-u%2FAnnaLogButterfly-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/AnnaLogButterfly)  
-- 💬 Open to chatting about tech, transitioning, and life in general!  
+- 💬 Open to chatting about tech or life in general!  
 
-✨ _“Like a butterfly, transformation takes time—but the result is beautiful.”_ ✨  
+---
+
+> “Code is how I contribute. Kindness is how I collaborate. Curiosity is how I grow.”  
+> — Anna Barnes
