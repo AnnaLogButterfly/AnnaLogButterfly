@@ -22,7 +22,7 @@ I'm a software developer who leads with clarity, kindness, and curiosity. I love
 - Miniature schnauzers (I have three — they’re basically QA)
 
 ### 📫 Let’s connect!
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-here)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annabethbarnes)  
 - [![Reddit](https://img.shields.io/badge/Reddit-u%2FAnnaLogButterfly-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/AnnaLogButterfly)  
 - 💬 Open to chatting about tech or life in general!  
 
